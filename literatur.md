@@ -6,7 +6,7 @@ Diyabet hastalarının hastaneye yeniden yatış riskinin tahmini üzerine liter
 
 
 
-Mevcut çalışmalar incelendiği zaman, veri kaynağı olarak elektronik sağlık kayıtları ve MIMIC-III gibi geniş veri setleri ile HbA1c gibi verilerin kullanıldığı görülmektedir \[1, 8]. Yöntem bazında incelendiği zaman ise araştırmacıların LSTM  gibi derin öğrenme mimarilerini kullandıkları görülmektedir \[6]. Bunun yanı sıra klinik kararlarını desteklemek ve modellerin şeffaflığını arttırmak amacıyla açıklanabilir yapay zeka tasarımlarına da literatürde çokça yer verilmektedir \[4, 7].
+Mevcut çalışmalar incelendiği zaman, veri kaynağı olarak elektronik sağlık kayıtları ve MIMIC-III gibi geniş veri setleri ile HbA1c gibi verilerin kullanıldığı görülmektedir \[1, 8]. Yöntem bazında incelendiği zaman ise araştırmacıların LSTM  gibi derin öğrenme mimarilerini kullandıkları görülmektedir \[6]. Bunun yanı sıra klinik kararlarını desteklemek ve modellerin şeffaflığını arttırmak amacıyla açıklanabilir yapay zeka tasarımlarına da literatürde çokça yer verilmiştir \[4, 7].
 
 
 
